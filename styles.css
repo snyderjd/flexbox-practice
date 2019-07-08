@@ -1,0 +1,17 @@
+.pageHeader {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px 0 50px 0;
+}
+
+.coffeeShops {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.shop {
+    border: 1px dashed black;
+    flex-basis: 30%;
+    margin: 0 0 10px 0;
+}
